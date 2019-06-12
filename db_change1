@@ -1,0 +1,5 @@
+create view ha (firstname varchar(30),
+                lastname  var(30),
+                address   varchar(30),
+                age       integer)
+                
